@@ -23,7 +23,7 @@ This project focuses on setting up a CI/CD pipeline for deploying a Dockerized v
 		• IAM Roles & Policies: Ensure secure access between the services involved. [Permissions]
 
 
-<img width="1372" height="788" alt="image" src="https://github.com/user-attachments/assets/5579b8ba-c742-482c-b8f5-a96c9002d6e7" />
+
 
 
 <img width="1372" height="2798" alt="image" src="https://github.com/user-attachments/assets/c30cddfd-7dac-47a8-bac8-614584e6cd32" />
